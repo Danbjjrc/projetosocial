@@ -40,3 +40,13 @@ section#telefone {
        
     background-size: 100% 100%;
 }
+
+iframe#tela{
+    position: relative;
+    top: 80px;
+    left: 23px;
+    width: 269px;
+    height: 471px;
+
+}
+
